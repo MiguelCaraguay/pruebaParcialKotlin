@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genero_array" >
+    <item>Macho</item>
+    <item>Hembra</item>
+    </string-array>
+    <string-array name="raza_array" >
+        <item>mini toy</item>
+        <item>pequeña</item>
+        <item>mediana</item>
+        <item>grande</item>
+        <item>gigante</item>
+    </string-array>
+    <string-array name="tipo_calc_array" >
+        <item>Macho</item>
+        <item>Hembra</item>
+    </string-array>
+</resources>
